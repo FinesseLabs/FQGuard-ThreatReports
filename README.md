@@ -12,7 +12,10 @@ This repo documents real-world cybersecurity threat detection and response from 
 **Ports Open:** 22 (SSH), 53 (DNS), 80 (HTTP)  
 **Status:** Blocked and removed after detection  
 **Threat Level:** Medium-High  
-**Report:** [📄 View PDF Report](Finesse_Threat_Report_2025-07-21.pdf)
+**Report:** [View Full Report](./Finesse_Incident_Report_072125_UPDATED.pdf)
+
+
+
 
 ---
 
