@@ -43,7 +43,7 @@ This device was detected across multiple platforms (WiFi Pineapple + router logs
 | File | Description |
 |------|-------------|
 | `Finesse_Threat_Report_2025-07-21.pdf` | Full report with timeline, actions taken, and evidence |
-| `./intruder.jpg` | Screenshot showing live threat presence in router UI |
+| ![Intruder SS](./img/intruder.jpg)| Screenshot showing live threat presence in router UI |
 
 ---
 
